@@ -50,6 +50,7 @@ button{
      cursor: pointer;
      transition: .7s;
      box-shadow: 4px 5px chartreuse;
+     transform: scale(1.1);
 
 }
 .btn .arttir:hover {
@@ -59,5 +60,6 @@ button{
      transition: .6s;
 
      box-shadow: 4px 5px yellow;
+     transform: scale(1.1);
 
 }
