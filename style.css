@@ -38,11 +38,11 @@ button{
      border-radius: 25px;
      font-size: 20px;
      border: none;
-     background-color: sandybrown;
+     background-color: rgb(172, 158, 237);
      font-family: Verdana, Geneva, Tahoma, sans-serif;
      margin: 10px 5px 5px 10px;
      letter-spacing: 2px;
-     box-shadow: 4px 5px gray;
+     box-shadow: 4px 5px rgb(245, 104, 104);
 }
 .btn .azalt:hover{
      background-color: rgb(235, 25, 25);
